@@ -22,7 +22,6 @@
             </label>
         </div>
             <input type="submit" value="ログイン" class="button">
-        
     </form>
 </body>
 </html>
